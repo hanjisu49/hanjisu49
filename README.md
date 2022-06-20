@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-- 🌱 현재 C++ 공부중!
+- 🌱 현재 Data Science tools 공부중!
 - 📫 이메일 주소: hanjisu49@gmail.com
 - 🔭 포트폴리오: <br/> [<img align="left" alt="포트폴리오 | LinkedIn" width = "20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
