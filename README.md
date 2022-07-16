@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## Growing Data Scientist🌱
 
-- Jr. Data Analyst in Data Science team (Data Scientist)
+- Data Analyst in Data Science team
 - 📫 e-mail : hanjisu49@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/js-h-7870a21bb/
