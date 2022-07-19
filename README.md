@@ -3,7 +3,7 @@
 - Data Analyst in Data Science team
 - 📫 e-mail : hanjisu49@gmail.com
 
-[linkedin]: https://www.linkedin.com/in/js-h-7870a21bb/
+[linkedin]: https://www.linkedin.com/in/ji-soo-han-7870a21bb/
 <!--
 **hanjisu49/hanjisu49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
