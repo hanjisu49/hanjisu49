@@ -59,5 +59,5 @@ Here are some ideas to get you started:
   --->
 </p>
 
-[LinkedIn]: https://www.linkedin.com/in/ji-soo-han-7870a21bb/
+[LinkedIn]: linkedin.com/in/ji-soo-han-7870a21bb/
 [Tistory]: https://my-own-record-210621.tistory.com/
