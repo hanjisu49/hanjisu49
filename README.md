@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![hanjisu49's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjisu49&theme=dark&hide=contribs,prs&count_private=true&layout=compact&show_icons=true)](https://github.com/hanjisu49/github-readme-stats)
 
 ### More about Me🍒
-[<img alt="JS H | LinkedIn" src="https://img.shields.io/badge/Joseph's Website-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2">][LinkedIn]
+[<img alt="JS H | LinkedIn" src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2">][LinkedIn]
 [<img alt="Tistory" src="https://img.shields.io/badge/Record Book-FFFFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAG1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACUUeIgAAAACHRSTlMALkvL2ef9/t/ZQ9gAAABzSURBVHjazZKBBsNAEAUnadO+///iCmR0W2dx4gZk7GBzFiAnXPzay09nKaolilYV3t+jamoE2LV9GEYyDB/aUcPmjv2/VqBlgFaV5Uia2Umn65W5mBQm0g/v3dFyyoObsjjLX8/T8JhzPZvdtvCZ8T/7AEwgD1UWiYiHAAAAAElFTkSuQmCC">][Tistory]
 
 ### Languages & Tools⚡
