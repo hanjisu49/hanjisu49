@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 [![hanjisu49's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjisu49&theme=dark&hide=contribs,prs&count_private=true&layout=compact&show_icons=true)](https://github.com/hanjisu49/github-readme-stats)
 
 ### More about Me🍒
-[<img alt="Ji soo Han | LinkedIn" src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2">][LinkedIn]
+[<img alt="Ji soo Han | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">][LinkedIn]
 [<img alt="Tistory" src="https://img.shields.io/badge/Record Book-FFFFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAG1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACUUeIgAAAACHRSTlMALkvL2ef9/t/ZQ9gAAABzSURBVHjazZKBBsNAEAUnadO+///iCmR0W2dx4gZk7GBzFiAnXPzay09nKaolilYV3t+jamoE2LV9GEYyDB/aUcPmjv2/VqBlgFaV5Uia2Umn65W5mBQm0g/v3dFyyoObsjjLX8/T8JhzPZvdtvCZ8T/7AEwgD1UWiYiHAAAAAElFTkSuQmCC">][Tistory]
 
 ### Languages & Tools⚡
 <p align="center" width="100%">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  
   <!---
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF"> 
   --->
